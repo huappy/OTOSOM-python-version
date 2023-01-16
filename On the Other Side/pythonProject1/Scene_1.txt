@@ -1,0 +1,219 @@
+﻿<Open playing the simplified version of Alex's theme at their end of the semester performance. It will start out as a simple rhythm game: notes scroll across the screen and the player has to press the right buttons at the right time. Once they've gotten used to the melody's pattern, start having the notes blink between two buttons or have the pattern become increasingly transparent. That is Alex’s anxiety. Knowing you’re not doing anything wrong but feeling the need to change anyways. It’s not supposed to be fair in the slightest. Alex and their piano are centered in the right middle of the screen facing the left side of the screen where the audience is. The notes will come down from the top on the right side directly behind them. This is the same configuration as in battle. You are killed in this battle. After you mess up a certain amount, Alex stops playing. The note line disappears and the rest of the stage becomes visible. Alex frantically exits stage left.>
+
+
+<Alex leaves the building and heads to the power plant. The power plant is fully automated; Alex comes here because they think the machines make interesting noises and because no one ever goes there. Alex sets out their piano and plays the notes that the keypad makes when the code is input (the player has to do the same thing). The door cooperates and falls open. The hum of the machines is soothing to them. They collapse to the floor and lay there  and they revel in the noise for a while and then they start crying.>
+
+Alex: “Dammit… that’s the entire semester down the drain…" 
+<They cry a bit more.> 
+“I practiced all month! How did I screw this up?” 
+<…>
+“Can I play it right at all?..." 
+"I’m going to the roof. I’ve gotta play it again.”
+
+
+<After stewing for a bit, they get frustrated with themselves and go up to the roof to try and figure out what went wrong during the performance. They drag the speakers for their electric piano up to the roof, plug in, and start playing. Because of how loud the speakers are and because of their earplugs, they notice Sasha approach the building. They don’t end up figuring out what they did wrong because, well, nothing really went wrong other than they panicked.>
+__________________________________________________________________
+
+
+<The perspective switches to Sasha. They managed to take a train into the city but didn’t really think about what they were going to do when they got here. Their tummy rumbles so they decide to look for somewhere to get food, but they don’t have any money. After failing to get food and becoming exhaustingly hungry, they lose track of where they’re going and end up near enough to the power plant to hear Alex playing. The music gives them a new wave of energy and they forget how hungry they are and go to look for the source of the music.>
+
+<Sasha makes it to the factory and looks up at the roof.>
+
+Sasha: “Hey!”
+<…> 
+“HEEEYYYYY!” 
+<…>
+“Hmmm… I don’t think they can hear me.”
+
+<They try to open the door and it rattles but doesn’t open.>
+
+Sasha: “You door! You can’t stop me!” 
+<They summon some vines out of the ground and give the door three good vine strikes that knock it off its hinges.> 
+“Hah! That’s what I thought. You shouldn’t have gotten in my way.” 
+
+<As they walk inside, you see the security cameras turn ominously toward Sasha in a way that didn’t happen when Alex walked in. Since they did not enter the password they end up tripping the security system and some machines in the building activate defense protocols.>
+________________________________________________________________
+
+<Alex finishes playing their song and sighs. In the background, the machinery inside is going crazy but Alex still has their earplugs in so they can’t hear it.>
+
+Alex: “No problems. This sucks."
+"At least if I’d messed up here I could have just practiced more.”
+
+<They unplug their piano and pop out their earplugs and hear machinery going wild.>
+
+Alex: “Something’s wrong with the machines. I should see what’s up.”
+
+<Go inside to investigate and find Sasha backed into a corner by what look like mars rovers with big mechanical claw arms snipping at them and closing in on them.>
+
+Sasha: “Back off, stupid rove-claws! I swear I’ll kick your ass!”
+
+<One of the rovers charges at Sasha, but Alex slams it with their piano before it hits Sasha.>
+
+Alex: “Are you okay?”
+
+Sasha: <Nods> “Let’s get em!”
+
+<INTRO BATTLE! WOOOO! This is a JRPG so I'm not doing a tutorial. No one should need a tutorial to pick a word from a list. The battle increases Alex’s stress.>
+
+<Once the tutorial battle is over, you see Sasha and Alex surrounded by robot parts. More rove-claws start closing in on them, but suddenly they stop and take off in a different direction.>
+
+Sasha: “They ran away… BUT I WASN’T FINISHED!”
+
+Alex: “It doesn’t look like they powered down. Did they lock onto something else?” 
+<Alex turns to Sasha.> 
+“I’m going to follow them and see what’s going on. You should get out of here.”
+
+<Player takes control again. Sasha doesn’t object to you telling them to leave but they also don’t leave. Instead they just keep following Alex. Sasha will just keep talking while you’re walking and every so often stop and take a look at something and then run to catch up.>
+
+Sasha: “I heard you playing your piano earlier. It was really good!” 
+<Alex is still sore about their performance earlier so they don’t respond.> 
+“Are you a professional? You carry around that big piano so you’ve gotta be a professional. Is your piano heavy?”
+
+Alex: “Not really.”
+
+Sasha: “Can I carry it?”
+
+Alex: “Sure, I guess.” <Alex sets down their piano and Sasha tries to lift it but can’t even budge it.>
+
+Sasha: “THIS IS SO HEAVY YOU LIAR! How the heck can you carry this thing?”
+
+Alex: “It’s really not that bad.” 
+<Alex lifts it with one hand and swings it back over their shoulder.> 
+“Although I’ve been meaning to put some wheels on it cause sometimes it does get a bit annoying.”
+
+Sasha: “Oh so like one of those wheel backpacks. 
+"I used to have one of those but I left it on the train on my way here.”
+
+Alex: “Sorry, but where are your parents?”
+
+Sasha: “They’re at home.”
+
+Alex: “I mean why aren’t they with—”
+
+Sasha: “What’s your name?”
+
+Alex: “Wha— um… I’m Alex.”
+
+Sasha: “I’m Sasha. So what are you?”
+
+<Alex’s stress levels shoot up. They stop and Sasha bumps into them.>
+
+Alex: “What?”
+
+Sasha: “I mean are you a boy or a girl?”
+
+Alex: "Umm… Neither, I guess…"
+
+Sasha: "Oh! ~You’re just like me~!" 
+<Sasha pauses.> 
+"I didn’t know people could say they’re neither."
+
+<Long pause.>
+
+Sasha: "So where are we going?"
+
+Alex: "I want to find out what steered those machines away from us."
+
+Sasha: "But where are we going?"
+
+Alex: "It looks like they’re going to the basement where the main computer is." 
+
+Sasha: "So? Everyone gets power from Gaia’s roots."
+"It’s not like they could knock it out even if they wanted to."
+
+Alex: "That computer regulates the flow of electricity to the whole district." 
+"If there was a power surge, it could set a lot of houses on fire."
+
+Sasha: "Ohhh. So are you like the guard or something?"
+
+Alex: <Shakes their head.> "I know the guy that manages the power plants." 
+"I can’t really practice in my dorm so he lets me practice my piano here as long as I make sure everything is running smoothly when I show up and when I leave."
+
+Sasha: "…So you’re the janitor…"
+
+<Get down to the basement. The rove-arms have been dealt with and someone is plugging something into the computer (a death stick which is designed to brick the computer when it is plugged into the USB). The person is dressed kinda normally, but is outfitted with a backpack full of tech shit. Because it’s an attack on the Otherside, they know the police will not really pursue the case if they need to put any energy into it. Alex is approaching quietly but Sasha yells:>
+
+Sasha: "Stop!"
+
+<The computer starts sparking and the screen seems to take a big shock before going black. The computer is fried.>
+
+Crimeguy: "You must be the ones that forced the lock. 
+Gotta thank ya, that made my life easier, if only just a little." 
+<He tries to leave but they seem ready to fight.> 
+"Damn. I was hoping ya were sent to help me, but I guess you’re just a couple of fucking Othersiders." 
+<He prepares to fight.> 
+"Whatever. What’s two more?"
+
+<READY? GO!>
+
+<Once the fight is over:>
+
+Alex: <Runs over to the computer to try and get it back online but it is toast.> "Dammit!" 
+
+Sasha: <Walks over and touches the roots that the computer is connected to.> 
+"It’s okay. Gaia is controlling the electricity herself."
+
+Alex: "What?"
+
+Sasha: "She says thanks for trying to protect her. She can handle channeling it, but rebuilding the computer would make things easier on her."
+"We should let your friend know."
+
+<Alex texts whoever runs the place (idk who that is yet).>
+
+Alex: "With all that plant stuff you’ve been doing, I guess it at least kinda makes sense that you can talk to trees."
+
+Sasha: "Yeah but trees aren’t very talkative. Most of the time they just kinda stand there, especially around here. 
+"Birch trees really like just watching and—" 
+<BIG YAWN and Sasha curls up on the floor. Some plants come out of the ground to give them some bedding.>
+
+Alex: "You never told me where your parents are. What were you doing out here all alone? 
+<Alex puts their phone away and sees that Sasha is falling asleep.> 
+"You can’t sleep here! Sasha sits up and rubs their eyes." 
+<…>
+"If you don’t have anywhere else to go, you can stay with me until we find your parents." 
+
+Sasha: "Thank youuu." 
+<The plants help them back up.>
+<Leave the power plant and go to Alex’s dorm.>
+
+<Scene end>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Other dialogue: Just banter that can fill the space as you walk around>
+
+Sasha: "Are you a professional penist?"
+
+Alex: "You mean pianist?"
+
+Sasha: "That’s exactly what I said. Jeez."
+
+Alex: "I don’t know."
+
+Sasha: "What do you mean you don’t know?"
+
+Alex: "Well that's the plan but…"
+
+Sasha: "Can you play that song for me again?"
+
+Sasha: "If you couldn’t tell, I’m going to be a horit— … hotri—... horticot—... IM GOING TO DO PLANTS."
+
+Alex: "Really? I never would have guessed."
+
+Sasha: "You’re not very smart, are you?"
+
+Alex: "(annoyed) How are you going to do that if you can’t even say horticulturist?"
+
+Sasha: "Planty bois don’t need to know words! Plants talk with their roots!"
